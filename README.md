@@ -1,4 +1,5 @@
 Pizza Sales Analysis
+
 Welcome to the Pizza Sales Analysis project! This repository contains SQL queries and a presentation summarizing the analysis of pizza sales data.
 
 
