@@ -4,6 +4,7 @@ Welcome to the Pizza Sales Analysis project! This repository contains SQL querie
 
 
 Table of Contents
+
 Introduction
 SQL Queries
 Presentation
@@ -14,9 +15,11 @@ License
 
 
 Introduction
+
 In this project, we analyze pizza sales data to gain insights into ordering patterns, revenue generation, and customer preferences. The analysis is performed using SQL queries on a relational database containing orders, order details, and pizza information.
 
 SQL Queries
+
 The SQL queries in this project cover various aspects of pizza sales analysis, including:
 
 Retrieving total orders placed
@@ -35,12 +38,15 @@ Presentation
 The presentation file provides a summary of the analysis findings and key insights derived from the SQL queries. It includes visualizations and explanations to communicate the results effectively.
 
 Usage
+
 To use the SQL queries, connect to a compatible relational database system (e.g., MySQL, PostgreSQL) and execute the queries provided in the queries.sql file.
 
 To view the presentation, open the presentation.pptx file using a presentation software (e.g., Microsoft PowerPoint).
 
 Contributing
+
 Contributions to improve the analysis or add new insights are welcome! Fork this repository, make your changes, and submit a pull request.
 
 License
+
 This project is licensed under the MIT License.
